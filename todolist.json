@@ -1,0 +1,19 @@
+{
+    "openapi": "3.0.3",
+    "info": {
+        "title": "Belajar OpenAPI",
+        "description": "Belajar OpenAPIgit json dari channel programmer zaman now.",
+        "version": "1",
+        "contact": {
+            "name": "Fajrul Aslim",
+            "email": "sedang.ngoding@gmail.com",
+            "url": "https://fajrulaslim.com"
+        },
+        "license": {
+            "name": "APACHE 2.0",
+            "url": "https://www.apache.org/licences/LICENSE-2.0"
+        }
+    },
+    "servers": [],
+    "paths": {}
+}
